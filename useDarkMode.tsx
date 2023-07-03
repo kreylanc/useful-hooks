@@ -1,5 +1,3 @@
-// import { useLocalStorage, useUpdateEffect } from 'usehooks-ts'
-"use client";
 import { useState, useEffect } from "react";
 import { useBetterMediaQuery } from "./useMediaQuery";
 
